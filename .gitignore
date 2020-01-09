@@ -1,0 +1,4 @@
+pkg
+.idea
+go.mod
+go.sum
